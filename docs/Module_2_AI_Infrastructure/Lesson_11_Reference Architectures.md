@@ -1,1 +1,5 @@
 # Reference Architectures
+
+## Outline
+
+## Objectives

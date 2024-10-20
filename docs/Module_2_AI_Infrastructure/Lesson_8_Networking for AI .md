@@ -1,1 +1,5 @@
-# Networking for AI 
+# Networking for AI
+
+## Outline
+
+## Objectives
