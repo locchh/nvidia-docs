@@ -15,3 +15,5 @@ By the end of this unit, you will be able to:
 - Describe in high-level how neural networks work
 - Identify common challenges enterprises face when adopting AI
 - Articulate the value of NVIDIA end-to-end software stack for deploying AI solutions in production
+
+## Keywords

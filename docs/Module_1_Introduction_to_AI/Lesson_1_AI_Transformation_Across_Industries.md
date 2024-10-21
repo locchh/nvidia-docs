@@ -13,3 +13,5 @@ By the end of this unit, you will be able to:
 - Describe how AI is revolutionizing drug discovery and medical devices
 - Articulate examples of how AI is transforming industries in the Financial sector
 - Illustrate how automakers are using AI from design to self-driving cars
+
+## Keywords
