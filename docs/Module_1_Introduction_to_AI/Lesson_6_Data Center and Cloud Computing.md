@@ -15,3 +15,31 @@ By the end of this unit, you will be able to:
 - Indicate the requisites and methods for managing and monitoring AI data centers
 
 ## Keywords
+Here are the extracted keywords from the provided text:
+
+- AI workloads
+- Data centers
+- Cloud computing
+- AI infrastructure
+- GPUs (Graphics Processing Units)
+- Accelerated computing
+- Networking
+- Storage
+- Compute
+- Energy efficiency
+- Cooling systems
+- Sustainable computing
+- Reference architectures
+- Distributed computing
+- High-speed network
+- AI data center management
+- Resource monitoring
+- Container orchestration
+- Job scheduling
+- Power usage
+- Environmental impact
+- AI training
+- AI inference
+- Compute platforms
+
+These keywords capture the main topics discussed, such as AI environments, infrastructure, technologies, and operational considerations.

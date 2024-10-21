@@ -17,3 +17,36 @@ By the end of this unit, you will be able to:
 - Articulate the value of NVIDIA end-to-end software stack for deploying AI solutions in production
 
 ## Keywords
+Here are the keywords extracted from the content:
+
+- Artificial Intelligence (AI)
+- AI workflow
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Neural networks
+- Data preparation
+- Model training
+- Model optimization
+- Inference
+- Deep Neural Networks (DNNs)
+- Generative AI
+- Large language models
+- NVIDIA software stack
+- TensorFlow
+- PyTorch
+- RAPIDS
+- TensorRT
+- Triton inference server
+- Convolutional Neural Network (CNN)
+- AlexNet
+- Image recognition
+- Image classification
+- Feature extraction
+- Data scientists
+- AI challenges
+- Hardware
+- Compute infrastructure
+- Pre-trained models
+- Cybersecurity
+- Recommender systems
+- End-to-end AI lifecycle
