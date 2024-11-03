@@ -153,5 +153,3 @@ Here are the keywords extracted from the provided text:
 - Network topology
 - Deployment topology
 - Summary of learning
-
-These keywords capture the key concepts and topics discussed in the unit.
