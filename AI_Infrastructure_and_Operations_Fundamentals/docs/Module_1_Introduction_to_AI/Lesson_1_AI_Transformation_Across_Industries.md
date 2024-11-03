@@ -121,68 +121,61 @@ Thank you for your time and attention. We'll see you in the next unit, where we'
 
 --- 
 
-## Keywords
-Here are the keywords extracted from the provided content:
+# Check Your Knowledge
 
-- AI
-- Infrastructure
-- Operations
-- Fundamentals
-- Learning
-- Industries
-- Healthcare
-- Financial services
-- Autonomous vehicles
-- Drug discovery
-- Medical devices
-- NVIDIA
-- Deep learning
-- Jensen Huang
-- Predictive analytics
-- Call centers
-- Sentiment analysis
-- Retail
-- Manufacturing
-- Quality control
-- Generative AI
-- Natural language processing
-- Content creation
-- Problem-solving
-- Algorithms
-- Machine learning
-- Data analytics
-- Digital biology
-- Computational methods
-- Lab automation
-- Advanced computing
-- Precision medical operations
-- Invenio Imaging
-- Pathology lab
-- Neural networks
-- GPUs
-- Cancer cells
-- Chemotherapy
-- Deutsche Bank
-- Omniverse
-- Metaverse applications
-- Finformers
-- Fraud detection
-- American Express
-- Autonomous driving
-- Engineering simulation
-- Industrial digital twin
-- Virtual showrooms
-- Car configurators
-- Conversational AI
-- Recommendation engines
-- Autonomous vehicles
-- Vehicle production
-- Mercedes-Benz
-- Omniverse platform
-- Digital twins
-- Supply chain
-- AI-powered solutions
-- Cloud
-- Data center
-- End-to-end AI platform
-- AI-accelerated computing
+Here’s the formatted content for clarity:
+
+---
+
+### 1. Question 1
+
+**Which statement is true about the use of AI-powered applications for industry use cases?**
+
+- Artificial Intelligence (AI) has the transformative potential to infuse every industry.
+- All industries can integrate AI technology seamlessly, requiring minimal expertise or adjustments in existing workflows and processes.
+- AI has already fully transformed every industry vertical, leaving no room for further innovation or evolution.
+- Only industries with strong research practices can benefit from AI.
+
+  
+
+
+---
+
+### 2. Question 2
+
+**How can AI help financial institutions combat cybercrime?**
+
+- Adding delays to transactions over a certain amount.
+- Encouraging shoppers to use cash instead of credit cards or online payment systems.
+- Prompting store owners to call the credit card company before confirming a transaction.
+- Using advanced AI models to detect anomalous patterns in transactions.
+
+  
+
+
+---
+
+### 3. Question 3
+
+**Which of the following exemplifies the application of AI in the healthcare sector?**
+
+- Enabling real-time image analysis for cancer cell identification.
+- Enhancing communication between medical professionals and patients.
+- Automating administrative tasks in hospital management systems.
+- Managing patients' medical appointments.
+
+  
+
+
+---
+
+### 4. Question 4
+
+**What benefits does AI offer to the financial services industry in combating fraud detection?**
+
+- Enabling more intelligent trading and expanding credit and services to underserved people.
+- Improving employee and customer engagement, thereby enhancing experiences.
+- Providing early warning signs on the counterparty of a financial transaction and faster data retrieval.
+- Assisting employees in navigating internal systems and addressing HR-related inquiries.
+
+  

@@ -121,34 +121,49 @@ You’ve reached the end of the third unit in the AI Essentials from Concept to 
 
 --- 
 
-## Keywords
-Here are the key extracted keywords from the text:
+# Check Your Knowledge
 
-- AI infrastructure
-- Generative AI
-- Large language models (LLMs)
-- Deploy generative AI
-- Enterprise AI solutions
-- Generative AI technology
-- AI process
-- Content creation
-- Text, images, multimedia
-- DALL-E, Edify, Llama 2, NVIDIA-GPT
-- Transformer models
-- Self-attention mechanism
-- GPU acceleration
-- Parallel processing
-- AI challenges (ethical, regulatory, privacy)
-- Data privacy and security
-- Bias, errors, limitations
-- Enterprise use cases
-- Foundation models
-- Pre-training, fine-tuning
-- Custom LLMs
-- Training data, inference
-- Business impact
-- Responsible AI
-- NVIDIA AI platform
-- NeMo, Picasso, BioNeMo
-- NVIDIA AI Enterprise
-- Cloud, on-premises
+Here’s the formatted content for your new questions:
+
+---
+
+### 1. Question 1
+
+**Which are three examples of Generative AI content generation use cases?**  
+*(Select three)*
+
+- Image to Category/Label
+- Text to Text
+- Image to Cluster
+- Text to Image
+- Image to Video
+
+  
+
+
+---
+
+### 2. Question 2
+
+**Which of the following statements is true about foundation models?**
+
+- They require labeled datasets for training.
+- They can only generate text, not images.
+- They are trained on small, specialized datasets.
+- They are trained on massive unlabeled datasets.
+
+  
+
+
+---
+
+### 3. Question 3
+
+**Your team is about to deploy a chatbot based on an LLM for customer service in a large retail company. How can you ensure that the content delivered by the chatbot is ethical, safe, and does not include biased and negative content?**
+
+- Using data curation tools.
+- Fine-tuning the model.
+- Adding guardrails.
+- Training the model in a vast corpus of data.
+
+  

@@ -64,30 +64,4 @@ Let's summarize what we've learned. Now that you've completed this unit, you sho
 
 Now proceed to Section 2, delving into AI infrastructure, where you'll begin your exploration of its components, starting with Unit 7 that addresses compute platforms designed for AI. See you in the next unit!
 
-## Keywords
-Here are the extracted keywords from the provided text:
-
-- AI workloads
-- Data centers
-- Cloud computing
-- AI infrastructure
-- GPUs (Graphics Processing Units)
-- Accelerated computing
-- Networking
-- Storage
-- Compute
-- Energy efficiency
-- Cooling systems
-- Sustainable computing
-- Reference architectures
-- Distributed computing
-- High-speed network
-- AI data center management
-- Resource monitoring
-- Container orchestration
-- Job scheduling
-- Power usage
-- Environmental impact
-- AI training
-- AI inference
-- Compute platforms
+---

@@ -43,7 +43,7 @@ An AI workflow, often referred to as a machine learning workflow or data science
 
 3. **Model Optimization:** This step involves fine-tuning and enhancing the model's performance, making it more accurate and efficient for its intended use case. Adjustments are made based on evaluation results until the model meets the desired performance criteria for deployment.
 
-4. **Inference:** Once trained, the model is deployed for inference, where it makes predictions or generates outputs based on new, unseen data. This step is crucial for addressing real-world challenges and achieving application objectives.
+4. **Inference:** Once trained, the model is deployed for inference, w it makes predictions or generates outputs based on new, unseen data. This step is crucial for addressing real-world challenges and achieving application objectives.
 
 **Example of an AI Workflow:**
 Consider ImageMe, a radiology clinic aiming to enhance its services with image recognition for fractures and tumors. An ML engineer named Sarah gathers historical datasets of X-rays, CT scans, and MRIs. For data preparation, she uses RAPIDS, an open-source suite of GPU-accelerated Python libraries. After data prep, she utilizes PyTorch and TensorFlow for model training, optimizing the model with NVIDIA TensorRT before deploying it using NVIDIA Triton Inference Server.
@@ -69,38 +69,33 @@ While AI offers tremendous benefits, several challenges must be considered when 
 ### Conclusion
 Congratulations on completing this unit! You should now be able to describe key milestones in AI evolution, visualize a typical AI workflow, understand how neural networks work, identify common challenges in AI adoption, and articulate the value of NVIDIA's end-to-end software stack for deploying AI solutions. Continue your journey by taking the next unit, "Generative AI Overview."
 
+---
 
-## Keywords
-Here are the keywords extracted from the content:
+# Check Your Knowledge
 
-- Artificial Intelligence (AI)
-- AI workflow
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Neural networks
-- Data preparation
-- Model training
-- Model optimization
-- Inference
-- Deep Neural Networks (DNNs)
-- Generative AI
-- Large language models
-- NVIDIA software stack
-- TensorFlow
-- PyTorch
-- RAPIDS
-- TensorRT
-- Triton inference server
-- Convolutional Neural Network (CNN)
-- AlexNet
-- Image recognition
-- Image classification
-- Feature extraction
-- Data scientists
-- AI challenges
-- Hardware
-- Compute infrastructure
-- Pre-trained models
-- Cybersecurity
-- Recommender systems
-- End-to-end AI lifecycle
+’s the formatted content for the new questions:
+
+---
+
+### 1. Question 1
+
+**What were the main factors that enabled real breakthroughs with deep learning around 2010?**
+
+- Inspiration from games like tic-tac-toe and checkers, and scary sci-fi movies.
+- Availability of powerful graphical processing units (GPUs), large datasets, and improvements in training algorithms.
+- Invention of smartphones, webcams, social media services, and all kinds of sensors.
+- Development of human-defined classifiers, feature extractors, and the Bag of Words technique.
+
+
+
+
+---
+
+### 2. Question 2
+
+**What is an AI Workflow?**
+
+- A set of rules and guidelines that artificial intelligence models follow to perform tasks that require human-level intelligence.
+- A collection of hardware and software components that offer the computational power needed to train sophisticated models efficiently.
+- A sequence of tasks and processes that AI practitioners follow to develop, train, deploy, and maintain artificial intelligence models.
+- A type of artificial intelligence model that can learn from data and generate new data or insights.

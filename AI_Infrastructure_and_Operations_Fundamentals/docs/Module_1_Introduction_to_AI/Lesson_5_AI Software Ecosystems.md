@@ -140,45 +140,33 @@ This concludes the unit on the NVIDIA software ecosystem for AI. Thank you for y
 
 ---
 
-## Keywords
-Here are the key terms and phrases from the text:
+# Check Your Knowledge
 
-- **GPU computing**
-- **VGPU (Virtual GPU)**
-- **AI frameworks**
-- **Nvidia software stack**
-- **CUDA X AI software**
-- **Nvidia containerized software (NGC)**
-- **Nvidia AI enterprise software**
-- **Virtualization**
-- **Nvidia AI ecosystem**
-- **AI workflow**
-- **Nvidia RAPIDS**
-- **Apache Spark**
-- **PyTorch**
-- **TensorFlow**
-- **TensorRT**
-- **Triton inference server**
-- **Deep learning**
-- **Neural networks**
-- **Nvidia Isaac Lab**
-- **Nvidia Docker runtime**
-- **AI platform**
-- **Open source AI**
-- **Nvidia AI Enterprise suite**
-- **Nvidia AI Platform**
-- **Nvidia NGC catalog**
-- **AI services**
-- **Pre-trained models**
-- **Computer vision**
-- **Natural language processing (NLP)**
-- **Reinforcement learning**
-- **Containerization**
-- **Nvidia AI workflows**
-- **AI deployment**
-- **Virtual PC (VPC)**
-- **RTX Virtual Workstation**
-- **Accelerated infrastructure**
-- **Helm charts**
-- **Jupyter Notebooks**
-- **Nvidia enterprise support**
+Here’s the formatted content for your new questions:
+
+---
+
+### 1. Question 1
+
+**What are the benefits of leveraging NVIDIA AI Enterprise for building an AI platform with the data center?**  
+*(Select 2)*
+
+- Limited compatibility with existing hardware.
+- Enhanced support for open-source software development and access to NVIDIA AI Enterprise Support.
+- Streamlined deployment of generative AI models.
+- Optimized for bare metal deployments instead of virtualized deployments.
+
+  
+
+
+---
+
+### 2. Question 2
+
+**Which of the following are true regarding vGPU?**  
+*(Select Two)*
+
+- Can be used to virtualize CPUs.
+- Allows a single VM to access multiple GPUs.
+- Allows for multiple VMs to share a single GPU.
+- Allows a single VM to use an assigned GPU.

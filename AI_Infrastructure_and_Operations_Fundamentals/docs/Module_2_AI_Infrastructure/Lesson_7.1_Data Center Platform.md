@@ -81,31 +81,4 @@ AI at the edge needs a scalable, accelerated platform that can drive decisions i
 
 ---
 
-## Keywords
-Here are the key extracted keywords:
-
-- Compute Platforms for AI
-- Data center platform
-- GPUs, CPUs, DPUs
-- NVIDIA-certified systems
-- Multi-GPU systems
-- Multi-node GPU interconnect technology
-- DOCA
-- CUDA
-- Accelerated computing
-- Full stack challenge
-- Software libraries (CUDA-X)
-- Application frameworks (Riva, DRIVE, Merlin)
-- AI, high-performance computing
-- Autonomous machines
-- Cloud-native, cloud computing frameworks
-- Cloud service providers (CSPs)
-- NVIDIA DGX systems
-- AI workflow
-- Data scientists, data engineers, DevOps
-- GPU-accelerated AI
-- Edge computing
-- Jetson platform
-- Real-time decision-making
-- Virtual workstations and desktops
-- Optimized containers
+# Check Your Knowledge

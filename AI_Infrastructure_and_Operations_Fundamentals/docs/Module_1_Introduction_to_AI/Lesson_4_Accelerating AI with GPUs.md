@@ -93,41 +93,49 @@ These systems are built with high-speed interconnects, advanced cooling solution
 
 ---
 
-## Keywords
-Here are the extracted keywords from the text:
+# Check Your Knowledge
 
-- **Nvidia GPUs**
-- **Accelerated compute**
-- **GPU history**
-- **GPU architecture**
-- **CPUs vs GPUs**
-- **GPU server systems**
-- **Data center**
-- **Nvidia AI GPU families**
-- **Deep learning**
-- **Parallel processing**
-- **AI models**
-- **Compute power**
-- **Moore’s Law**
-- **Data processing**
-- **PCIe bus**
-- **NVLink**
-- **GPU memory**
-- **Cache memory**
-- **Triton server**
-- **NGC**
-- **Grace Hopper GH200**
-- **CUDA**
-- **HPC (High-Performance Computing)**
-- **Cloud service providers**
-- **AI software ecosystem**
-- **AI training and inference**
-- **Edge computing**
-- **Virtualization**
-- **Visualization**
-- **Workstations**
-- **Nvidia DGX H100**
-- **Nvidia HGX H100**
-- **Nvidia MGX**
-- **PCIe form factor**
-- **SXM form factor**
+Here’s the formatted content for your new questions:
+
+---
+
+### 1. Question 1
+
+**What are GPUs optimized for?**
+
+- Controlling the computer system's power supply and cooling.
+- Facilitating network communication between computers.
+- Storing and managing data.
+- Executing highly parallel tasks.
+
+  
+
+
+---
+
+### 2. Question 2
+
+**What are the key architectural components of a GPU?**  
+*(Select Three)*
+
+- GPU cores
+- Cooling
+- Cache memory
+- GPU-specific memory
+
+  
+
+
+---
+
+### 3. Question 3
+
+**When comparing CPUs and GPUs, what is a key strength of CPUs?**
+
+- High parallel processing capability.
+- Specialized graphics rendering.
+- General-purpose computing and handling of complex logic.
+- Low power consumption.
+
+  
+
