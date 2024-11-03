@@ -1,10 +1,8 @@
 # nvidia-docs
-nvidia documents
+Nvidia Documents
 
-# assets
-- documents (*.pdf, *.md)
-- exams
-
+# contents
+- [AI Infrastructure and Operations Fundamentals](AI_Infrastructure_and_Operations_Fundamentals) (Documents, Exams,)
 # references
 
 [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)
