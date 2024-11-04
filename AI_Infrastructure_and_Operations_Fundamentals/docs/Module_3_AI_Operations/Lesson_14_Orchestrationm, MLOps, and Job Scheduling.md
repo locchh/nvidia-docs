@@ -78,45 +78,41 @@ An optional database can track accounting records. NVIDIA recommends using conta
 ## Conclusion
 Now that you've completed this unit, you should be able to describe the difference between orchestration and scheduling, common tools used for orchestration and scheduling, and discuss the value of MLOps tools. With this knowledge, you're prepared to take on the course completion quiz. Good luck!
 
-## Keywords
-Here are the extracted keywords from the provided text:
+# Check Your Knowledge
 
-1. **Unit 14**
-2. **Orchestration**
-3. **Job Scheduling**
-4. **Kubernetes**
-5. **Machine Learning Operations (MLOps)**
-6. **Slurm Scheduler**
-7. **Container Orchestration**
-8. **Workloads**
-9. **Compute Resources**
-10. **Micro-services**
-11. **High-Performance Computing**
-12. **Kubernetes Pod**
-13. **Nodes**
-14. **Cluster**
-15. **Namespace**
-16. **Containers**
-17. **Persistent Volumes**
-18. **Services**
-19. **NVIDIA GPU Operator**
-20. **NVIDIA Data Center GPU Manager (DCGM)**
-21. **GPU Management**
-22. **GPU-Accelerated Applications**
-23. **NVIDIA Network Operator**
-24. **GPUDirect RDMA**
-25. **MLNX_OFED**
-26. **Networking Libraries**
-27. **Peer Memory Driver**
-28. **MLOps Tools**
-29. **Data Preparation**
-30. **Model Versioning**
-31. **Model Deployment**
-32. **Monitoring Model Performance**
-33. **Slurm Controller**
-34. **Compute Nodes**
-35. **Job Scheduling System**
-36. **Enroot**
-37. **Pyxis**
-38. **Security Mechanisms**
-39. **Course Completion Quiz**
+**Question 1**  
+**What is the primary purpose of the scheduler in an AI cluster?**  
+
+- The scheduler performs data analysis and generates reports on cluster usage.  
+- The scheduler determines which servers are up or down at any given time.  
+- The scheduler manages the execution of jobs submitted across the cluster’s resources.  
+- The scheduler optimizes the performance of individual jobs vs cluster efficiency.  
+
+**Answer:**  
+- The scheduler manages the execution of jobs submitted across the cluster’s resources.  
+
+---
+
+**Question 2**  
+**What is the value of MLOps tools when used in conjunction with an orchestration tool like Kubernetes?**  
+
+- MLOps tools maximize the utilization of resources and help projects to scale.  
+- MLOps tools increase the amount of code created by the development team.  
+- MLOps tools eliminate the need for expertise when doing an AI project.  
+- MLOps tools are required for project teams to use GPUs in large AI clusters.  
+
+**Answer:**  
+- MLOps tools maximize the utilization of resources and help projects to scale.  
+
+---
+
+**Question 3**  
+**Which of the following is included with the NVIDIA Network Operator?**  
+
+- NVIDIA MLNX_OFED driver  
+- NVIDIA GPU Operator helm charts  
+- NVIDIA Kubernetes MIG Manager Distribution  
+- Remote Direct Memory Access SDKs  
+
+**Answer:**  
+- NVIDIA MLNX_OFED driver

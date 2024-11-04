@@ -82,3 +82,13 @@ AI at the edge needs a scalable, accelerated platform that can drive decisions i
 ---
 
 # Check Your Knowledge
+
+**Question 1**  
+**Select one correct statement regarding the development of AI solutions.**
+
+- Data Scientists are responsible for the entire AI development process, from initial concept to production.
+- Running AI applications on edge devices requires heavy customization specific to each type of device.
+- Training of AI models can only be done in on-premises data centers.
+- GPU-enabled workstations allow developers to build AI applications at their desks.
+
+**Answer:** GPU-enabled workstations allow developers to build AI applications at their desks.

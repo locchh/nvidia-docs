@@ -59,36 +59,19 @@ Now that you have an understanding of what AI in the cloud is, let's explore the
 ### Next Steps
 Now that you have a general understanding of the challenges of AI infrastructure and how AI in the cloud could help mitigate those challenges, it's time for a knowledge check before we turn our attention to Subunit 12-3, AI in the Cloud Use Cases. You are well on your way to completing this unit. Next up is Subunit 12.3, which covers AI use cases in the cloud.
 
+# Check Your Knowledge
 
-## Keywords
-Here are the keywords extracted from the text:
+**Question 1**  
+**Which of the following cloud computing capabilities enhances AI deployments?**  
+*(Select three)*  
 
-- AI (Artificial Intelligence)
-- Cloud Computing
-- Infrastructure
-- Enterprise Operations
-- Design Complexity
-- Performance
-- Scalability
-- Deployment
-- Technologies
-- Hardware
-- Software
-- Networking
-- Data Management
-- Computing Power
-- Machine Learning
-- Integration
-- Cost-effectiveness
-- Collaboration
-- High-performance Computing
-- Automation
-- Serverless Computing
-- Batch Processing
-- Container Orchestration
-- Data-driven Insights
-- Global Accessibility
-- Innovation
-- Use Cases
+- Data management and integration
+- Spot instances
+- Flexibility
+- On-demand scalability
+- Egress costs
 
-Let me know if you need anything else!
+**Answers:**  
+- Data management and integration  
+- Flexibility  
+- On-demand scalability

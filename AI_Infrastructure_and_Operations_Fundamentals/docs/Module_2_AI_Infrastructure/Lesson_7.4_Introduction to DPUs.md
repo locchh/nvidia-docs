@@ -71,58 +71,16 @@ Now that you've completed this unit, you should be able to:
 
 Continue your journey by taking the next unit: **Networking for AI**.
 
-## Keywords
-Here are the extracted keywords:
+# Check Your Knowledge
 
-- DPU (Data Processing Unit)
-- Infrastructure requirements
-- Cloud computing
-- AI workloads
-- Offload
-- Accelerate
-- Isolate
-- Hardware acceleration
-- Data plane
-- Control plane
-- Software-defined infrastructure
-- BlueField-3 DPU
-- Ethernet connectivity
-- InfiniBand
-- Networking
-- Storage
-- Security
-- Management functions
-- Cloud Service Providers (CSPs)
-- Bare metal infrastructure
-- Kubernetes clusters
-- Cybersecurity
-- Next Generation Firewalls (NGFW)
-- Micro-segmentation
-- Zero trust security
-- HPC (High-Performance Computing)
-- NVMe Over Fabrics (NVMEOF)
-- GPU direct storage
-- Data integrity
-- Decompression
-- Deduplication
-- Video streaming
-- NVIDIA DOCA
-- Open cloud SDK
-- Data center innovation
-- NVIDIA-certified servers
-- Accelerated computing
-- Performance optimization
-- Manageability
-- Scalability
-- Security features
-- Machine learning
-- Deep learning
-- Data analytics
-- High-speed interconnects
-- Network encryption offload
-- TLs and IPsec
-- Multi-node processing
-- Multi-instance GPUs
-- AI model training
-- Host-level security
-- Unit completion goals
+**Question 1**  
+**Select 2 statements that best describe what a DPU is.**
+
+- DPUs are primarily designed for general-purpose computing tasks, providing a versatile solution for a wide range of applications.
+- It’s a processing unit that offloads, accelerates, and isolates infrastructure workloads.
+- DPUs can offload several processing tasks from the CPU, freeing up the host CPU for critical business applications.
+- DPUs focus solely on graphics rendering and display tasks.
+
+**Answers:**  
+- It’s a processing unit that offloads, accelerates, and isolates infrastructure workloads.  
+- DPUs can offload several processing tasks from the CPU, freeing up the host CPU for critical business applications.

@@ -65,36 +65,22 @@ Let's assess your understanding before concluding this unit with the final subun
 
 Only one subunit left! Way to go! The last subunit covers NVIDIA solutions in the cloud, where we detail all of the NVIDIA solutions that can be used in the cloud. See you in the final subunit!
 
-## Keywords
-Here are the keywords extracted from the text:
+# Check Your Knowledge
 
-- Cloud Service Providers (CSPs)
-- Consumption Models
-- AI Journey
-- NVIDIA
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Platform (GCP)
-- Oracle Cloud Infrastructure
-- Cloud Ecosystem
-- AI Workloads
-- Flexibility
-- Reliability
-- Performance
-- On-Premises Model
-- Technology Stack
-- Data Center
-- Infrastructure as a Service (IaaS)
-- Platform as a Service (PaaS)
-- Software as a Service (SaaS)
-- Customer Responsibility
-- Cloud Strategy
-- Enterprise Cloud Contracts
-- Cloud Marketplace
-- Service Comparison
-- Easy Discovery
-- Streamlined Procurement
-- Cost Savings
-- Increased Agility
-- AI in the Cloud
-- NVIDIA Solutions
+**Question 1**  
+Your manager has asked you to evaluate moving AI workloads to the cloud.  
+
+What key considerations should be evaluated when assessing the move of AI workloads to the cloud?  
+*(Choose four)*  
+
+- Compatibility with Kubernetes  
+- Data locality  
+- Hybrid IT strategies  
+- Real-time performance  
+- Data sovereignty  
+
+**Answers:**  
+- Data locality  
+- Hybrid IT strategies  
+- Real-time performance  
+- Data sovereignty

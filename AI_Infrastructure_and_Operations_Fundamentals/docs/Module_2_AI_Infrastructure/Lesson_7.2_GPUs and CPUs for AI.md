@@ -120,3 +120,13 @@ The Grace CPU is designed for a new type of data center, one that processes moun
 ---
 
 # Check Your Knowledge
+
+**Question 1**  
+**Which sentence best describes NVIDIA GPUs?**
+
+- CPUs and GPUs cannot be combined on the same card.
+- GPUs and CPUs can be used interchangeably to power AI applications.
+- NVIDIA offers different GPU architectures for different types of workloads.
+- The same GPU that powers gaming applications can be used in training large Generative AI models.
+
+**Answer:** NVIDIA offers different GPU architectures for different types of workloads.

@@ -166,50 +166,49 @@ Now that you've completed this unit, you should be able to:
 
 Don’t stop here! Continue your learning journey with Unit 11, **AI Reference Architectures**. See you there!
 
-## Keywords
-Here are the keywords extracted from the provided text:
+# Check Your Knowledge
 
-- Energy-efficient computing
-- Data center
-- Learning objectives
-- Planning and deployment
-- Power consumption
-- Cooling considerations
-- Nvidia technology
-- Efficiency
-- Data center colocation
-- Environmental impact
-- GPUs (Graphics Processing Units)
-- Resource utilization
-- Energy demand
-- Accelerated computing
-- CPU vs. GPU
-- Performance improvement
-- Data processing units (DPUs)
-- Zero-trust protection platform
-- Security
-- Cooling technology
-- Computational fluid dynamics
-- Physics-informed neural networks (PINNs)
-- Power and cooling requirements
-- Rack space
-- Thermal design power (TDP)
-- Performance gain
-- DGX systems
-- HPC (High Performance Computing)
-- AI workloads
-- GPU architectures
-- Cooling options
-- Cold air cooling
-- Water-cooled heat exchangers
-- CRAH (Computer Room Air Handling units)
-- Power provisioning
-- Redundant power sources
-- DGX data center colocation program
-- GPU computing
-- Net zero data center
-- Ampere architecture
-- TF32 math mode
-- Summary of learning
+**Question 1**  
+**Which of the following factors should be taken into account when considering data center resources?**  
+*(Select 3)*  
 
-These keywords capture the key concepts and topics discussed in the unit.
+- Power
+- Space
+- Time Allocation
+- Cooling
+
+**Answers:**  
+- Power  
+- Space  
+- Cooling  
+
+---
+
+**Question 2**  
+**What are the cooling options available for cooling GPU chips?**  
+*(Select 2)*  
+
+- Gas cooling
+- Data center controlled fan system
+- Air cooling
+- Water cooling
+
+**Answers:**  
+- Air cooling  
+- Water cooling  
+
+---
+
+**Question 3**  
+**Which of the following statements about accelerated computing are true?**  
+*(Select 3)*  
+
+- GPUs handle compute-intensive functions.
+- CPUs are more efficient for AI workloads.
+- Partitioning GPUs boosts utilization.
+- In AI workloads, GPUs use less energy over time when compared to CPUs.
+
+**Answers:**  
+- GPUs handle compute-intensive functions.  
+- Partitioning GPUs boosts utilization.  
+- In AI workloads, GPUs use less energy over time when compared to CPUs.

@@ -47,30 +47,4 @@ This quote highlights the potential impact of AI in the cloud across various ind
 ### Next Steps
 Let's begin our journey into the cloud with Unit 12-2: Introduction to AI in the Cloud.
 
-## Keywords
-Here are the keywords extracted from the provided text:
-
-- AI in the Cloud
-- Unit overview
-- Cloud computing
-- AI workloads
-- Structure
-- Learning objectives
-- Challenges
-- Benefits
-- Unification
-- AI use cases
-- Deployment
-- Cloud service providers
-- Invidious solutions
-- Cloud Computing enhancements
-- Key considerations
-- Strategies
-- NVIDIA technologies
-- Cloud consumption models
-- NVIDIA's Cloud solutions
-- Transforming industries
-- Future of computing
-- Technology landscape
-
-These keywords summarize the key concepts and topics discussed in the unit.
+# Check Your Knowledge

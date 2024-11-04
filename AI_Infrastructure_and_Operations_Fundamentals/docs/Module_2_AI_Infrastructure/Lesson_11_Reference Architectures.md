@@ -107,49 +107,42 @@ Now that you've completed this unit, you should be able to:
 
 Don’t stop here—continue your learning journey with Unit 12: AI in the Cloud. See you in the next unit!
 
+# Check Your Knowledge
 
-## Keywords
-Here are the keywords extracted from the provided text:
+**Question 1**  
+**For an NVIDIA DGX BasePOD with DGX H100 systems and QM9700 switches at 200 Gbps, the number of nodes allowed is between 2 and what maximum?**
 
-- NVIDIA reference architectures
-- DGX BasePOD
-- DGX SuperPOD
-- Overview
-- Benefits
-- Design documents
-- High-performance solutions
-- Data center scale computing
-- Implementation
-- Best practices
-- Foundational design
-- Cost reduction
-- Time savings
-- Quality improvement
-- Reliability
-- DGX systems
-- NVIDIA networking systems
-- Base Command software
-- AI Enterprise software
-- Partner Storage
-- AI workloads
-- Configuration
-- DGX B200 system
-- DGX H100 system
-- Performance specifications
-- InfiniBand
-- Ethernet
-- ConnectX-7 network adapter
-- QM9700 switch
-- QM8700 switch
-- SN 5600 Ethernet switch
-- SN4600 switch
-- SN2201 switch
-- Modular deployment
-- Scalable units (SUs)
-- AI development
-- Large language models
-- NVIDIA AI enterprise reference architecture
-- Cloudera data platform reference architecture
-- Network topology
-- Deployment topology
-- Summary of learning
+- 20 nodes
+- 32 nodes
+- 16 nodes
+- 40 nodes
+
+**Answer:** 32 nodes
+
+---
+
+**Question 2**  
+**Which is an advantage of using Reference Architectures to design systems for AI workloads?**
+
+- They are used exclusively by NVIDIA, so partners need to design their own systems.
+- They focus mainly on the storage components, and the organizations are responsible for other components, such as networking and compute.
+- They provide a blueprint for designing systems specific to the Financial Services industry.
+- They provide a proven approach to design reliable, resilient, and robust systems.
+
+**Answer:** They provide a proven approach to design reliable, resilient, and robust systems.
+
+---
+
+**Question 3**  
+**Which components are part of the NVIDIA BasePOD reference architecture?**  
+*(Select 2)*  
+
+- NVIDIA L40S GPU
+- NVIDIA Inference Microservices
+- NVIDIA QM9700 switch
+- NVIDIA DGX H100 system
+- NVIDIA GB200 Superchip
+
+**Answers:**  
+- NVIDIA QM9700 switch  
+- NVIDIA DGX H100 system

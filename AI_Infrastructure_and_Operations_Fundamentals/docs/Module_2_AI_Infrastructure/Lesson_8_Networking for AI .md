@@ -121,38 +121,38 @@ Now that you have completed this unit, you should be able to explain the basics 
 
 Continue the learning journey with Unit 9, **Storage for AI**. See you in the next unit!
 
-## Keywords
-Here are the keywords extracted from the provided text:
+# Check Your Knowledge
 
-1. **AI Data Center**
-2. **Networking**
-3. **InfiniBand**
-4. **Ethernet**
-5. **Compute Network**
-6. **Storage Network**
-7. **Management Network**
-8. **Out-of-Band Management**
-9. **GPU Utilization**
-10. **Data Transfer**
-11. **Network Topology**
-12. **Bandwidth**
-13. **Latency**
-14. **Network Protocols**
-15. **RDMA (Remote Direct Memory Access)**
-16. **GPUDirect RDMA**
-17. **Nvidia Networking Portfolio**
-18. **Nvidia ConnectX**
-19. **BlueField DPUs**
-20. **Spectrum Ethernet Switch**
-21. **Quantum InfiniBand Switch**
-22. **Spectrum-X Networking Platform**
-23. **RoCE (RDMA over Converged Ethernet)**
-24. **Congestion Control**
-25. **AI Workloads**
-26. **Multi-Tenant Environments**
-27. **Data Management**
-28. **Performance Optimization**
-29. **AI Factories**
-30. **AI Clouds** 
+**Question 1**  
+**What is a key difference between a legacy network and an AI-optimized network?**
 
-Let me know if you need any further assistance!
+- Legacy networks run TCP while AI-optimized networks run RDMA.
+- Legacy networks run RDMA while AI-optimized networks run TCP.
+- In legacy networks, applications have high dependencies between nodes, while in AI-optimized networks, applications run independently with no dependencies.
+- Legacy networks can operate with high jitter, while AI-optimized networks can operate with high latency.
+
+**Answer:** Legacy networks run TCP while AI-optimized networks run RDMA.
+
+---
+
+**Question 2**  
+**What is one of the key features of InfiniBand in high-performance computing?**
+
+- Intelligent offloading for optimized data processing.
+- Accelerating storage technologies and transferring data at high speeds.
+- GPU-to-GPU communication at incredibly high speeds.
+- Prioritizing data transmission based on computational requirements.
+
+**Answer:** Intelligent offloading for optimized data processing.
+
+---
+
+**Question 3**  
+**Which of the sentences below best describes RoCE (RDMA over Converged Ethernet)?**
+
+- It encapsulates InfiniBand transport packets within Ethernet frames to enable RDMA over Ethernet networks.
+- It is an NVIDIA technology allowing data transfer with minimal CPU intervention.
+- It allows direct communication between GPUs in remote systems.
+- It is the predominant LAN technology for AI workloads.
+
+**Answer:** It encapsulates InfiniBand transport packets within Ethernet frames to enable RDMA over Ethernet networks.

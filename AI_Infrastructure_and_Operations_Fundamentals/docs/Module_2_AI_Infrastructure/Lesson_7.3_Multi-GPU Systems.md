@@ -95,3 +95,13 @@ The **NVIDIA GB200 NVL 72** is a multi-node, liquid-cooled rack-scale system for
 - As a result, the NVIDIA GB200 NVL72 delivers trillion-parameter LLM training and real-time inference.
 
 # Check Your Knowledge
+
+**Question 1**  
+**Select one correct statement about the differences between infrastructure scaling-up and scaling-out.**
+
+- Scaling-up refers to adding more GPUs to a single node to increase its computational power, whereas scaling-out refers to adding more nodes to a system to increase its overall processing power.
+- Load balancing is not a concern when scaling-up, as each GPU independently manages its workload without the need for coordination.
+- When scaling-out, data is centralized on a master node for sequential processing, whereas when scaling-up each GPU processes separate sets of data independently.
+- Scaling-up makes an infrastructure more resilient to failures than scaling-out.
+
+**Answer:** Scaling-up refers to adding more GPUs to a single node to increase its computational power, whereas scaling-out refers to adding more nodes to a system to increase its overall processing power.

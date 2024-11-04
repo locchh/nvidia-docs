@@ -124,48 +124,42 @@ Now that you have completed this unit, you should be able to explain the basics 
 
 Don't stop here. Continue the learning journey with Unit 9: Storage for AI. See you in the next unit.
 
-## Keywords
-Here are the keywords extracted from the provided text:
+# Check Your Knowledge
 
-- Storage considerations
-- AI workloads
-- Storage requirements
-- Storage file systems
-- Nvidia validated storage partners
-- Model accuracy
-- Model complexity
-- Image classification
-- Autonomous driving
-- Natural language processing
-- Data storage
-- Fast
-- Flexible
-- Scalable
-- Input/output operations per second (IOPS)
-- Bandwidth
-- Metadata operations
-- Data management
-- Resiliency
-- Fault tolerance
-- Data lifecycle
-- Network file systems
-- Local storage
-- Distributed file systems
-- Parallel file systems
-- Object storage
-- SQL and NoSQL databases
-- NFS (Network File System)
-- POSIX (Portable Operating System Interface)
-- Data replication
-- REST API
-- Security features
-- Caching
-- Training performance
-- Read and write performance
-- Storage hierarchy
-- Multi-tiered storage
-- Data accessibility
-- Performance metrics
-- Energy efficient computing
+**Question 1**  
+**Why is storage considered a critical component of an AI data center?**
 
-Let me know if you need anything else!
+- Storage is not critical in AI data centers since AI workloads can run without any storage.
+- Because AI data centers are only concerned with AI software development.
+- Because AI workloads require massive amounts of data to be stored, processed, and analyzed.
+- Because AI data centers are purely focused on processing power, not storage.
+
+**Answer:** Because AI workloads require massive amounts of data to be stored, processed, and analyzed.
+
+---
+
+**Question 2**  
+**How can storage performance be characterized?**  
+*(Select 2)*  
+
+- Metadata operations.
+- Number of records that are created every day.
+- Number of pixels processed per second.
+- IOPS (Input/Output Operations per Second).
+- Number of images processed per second.
+
+**Answers:**  
+- Metadata operations.  
+- IOPS (Input/Output Operations per Second).
+
+---
+
+**Question 3**  
+**What is the primary storage requirement for AI workloads?**
+
+- Large storage capacity with a primary focus on read IO performance.
+- Minimal storage capacity with a focus on write IO performance.
+- A balance between read and write IO performance.
+- Only read IO performance, with no regard for storage capacity.
+
+**Answer:** A balance between read and write IO performance.

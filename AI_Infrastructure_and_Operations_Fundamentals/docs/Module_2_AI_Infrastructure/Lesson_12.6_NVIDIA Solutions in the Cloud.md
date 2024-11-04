@@ -96,40 +96,22 @@ Now that you've completed this unit, you should be able to:
 
 Concluding this unit marks a significant milestone in our journey through the introduction to AI in the data center course. Fantastic progress so far! As we look forward, we're set to explore Unit 13: AI Data Center Management and Monitoring. See you in the next unit!
 
-## Keywords
-Here are the keywords extracted from the text:
+# Check Your Knowledge
 
-- NVIDIA
-- AI Cloud Solutions
-- Enterprise AI
-- AI Adoption Journey
-- Cloud Native
-- AI-Enabled Applications
-- Accelerated Infrastructure
-- NVIDIA GPUs
-- Cloud Service Providers (CSPs)
-- Virtual Machine Images (VMIs)
-- Ubuntu OS
-- Cloud Instance Types
-- NVIDIA AI Enterprise
-- API Platform Software
-- AI Workloads
-- NGC Catalog
-- AI Services Layer
-- DGX Cloud
-- Multinode AI Training
-- AI Foundations
-- Generative AI
-- Foundation Models
-- Custom Models
-- TensorRT LLM
-- NeMo Format
-- NVIDIA AI Foundry
-- End-to-End Solution
-- Cloud Native Infrastructure
-- Business Success
-- Cloud Resource Allocation
-- Cost Optimization
-- AI Deployment
-- Cloud Services
-- Consumption Models
+**Question 1**  
+Your manager has asked you to evaluate moving AI workloads to the cloud.  
+
+What key considerations should be evaluated when assessing the move of AI workloads to the cloud?  
+*(Choose four)*  
+
+- Compatibility with Kubernetes  
+- Data locality  
+- Hybrid IT strategies  
+- Real-time performance  
+- Data sovereignty  
+
+**Answers:**  
+- Data locality  
+- Hybrid IT strategies  
+- Real-time performance  
+- Data sovereignty  

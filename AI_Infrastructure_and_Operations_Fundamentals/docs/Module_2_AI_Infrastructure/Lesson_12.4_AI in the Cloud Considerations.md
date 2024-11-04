@@ -101,40 +101,22 @@ Let's close out this topic with a recap of the key considerations:
 
 Great momentum! Don't stop now. Next up is Subunit 12.5, which details the supported cloud service providers and their consumption models.
 
-## Keywords
-Here are the keywords extracted from the text:
+# Check Your Knowledge
 
-1. **AI Deployment**
-2. **Cloud Strategy**
-3. **AI Maturity Model**
-4. **Organizational Assessment**
-5. **AI Capabilities**
-6. **Competitive Edge**
-7. **Growth Curve**
-8. **Stages of AI Maturity**
-   - Awareness
-   - Active AI Experimentation
-   - Operational AI
-   - Systemic AI
-   - Transformational AI
-9. **On-Premises AI**
-10. **Total Cost of Ownership (TCO)**
-11. **Data Sovereignty**
-12. **AI Development Cycles**
-13. **Cloud-First Approach**
-14. **Elasticity in Cloud**
-15. **AI Resources**
-16. **Cloud Operating Expenses**
-17. **Hybrid Approach**
-18. **Data Gravity**
-19. **Performance Latency**
-20. **Security in Cloud vs. On-Prem**
-21. **AI Workloads**
-22. **Training and Optimization**
-23. **Data Compliance**
-24. **Data Locality**
-25. **Real-Time Performance**
-26. **Hybrid IT Strategies**
-27. **Multi-Cloud Solutions**
+**Question 1**  
+**Your manager has asked you to evaluate moving AI workloads to the cloud.**  
 
-These keywords capture the main concepts and themes discussed in the text.
+**What key considerations should be evaluated when assessing the move of AI workloads to the cloud?**  
+*(Choose four)*  
+
+- Compatibility with Kubernetes
+- Data locality
+- Hybrid IT strategies
+- Real-time performance
+- Data sovereignty
+
+**Answers:**  
+- Data locality  
+- Hybrid IT strategies  
+- Real-time performance  
+- Data sovereignty
